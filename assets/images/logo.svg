@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Mountain Range -->
+  <path d="M20 160L60 80L100 140L140 60L180 160" stroke="#FF5F6D" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Sun -->
+  <circle cx="160" cy="40" r="20" fill="#FF5F6D"/>
+  
+  <!-- Text -->
+  <text x="100" y="190" text-anchor="middle" font-family="Arial" font-size="24" fill="#FF5F6D" font-weight="bold">IE</text>
+</svg> 
